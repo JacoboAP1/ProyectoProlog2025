@@ -1,11 +1,15 @@
 # Este archivo contiene la interfaz de usuario para la aplicación
 
-from controller import recomendar_destino_py
+from controller import recomendar_destino_py, recomendar_economico_py
 
 def obtener_recomendaciones(gustos, mes, presupuesto):
     """
-    Función de interfaz para obtener recomendaciones de destinos turísticos.
-    Recibe gustos (lista), mes (str) y presupuesto (float/int).
-    Devuelve una lista de recomendaciones (diccionarios).
+    Función de interfaz para obtener recomendaciones generales.
     """
-    return recomendar_destino_py(gustos, mes, presupuesto) 
+    return recomendar_destino_py(gustos, mes, presupuesto)
+
+def obtener_destinos_economicos(mes, presupuesto):
+    """
+    Función de interfaz para obtener destinos más económicos para un mes.
+    """
+    return recomendar_economico_py(mes, presupuesto)

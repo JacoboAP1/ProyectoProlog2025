@@ -110,3 +110,439 @@ Kandy,Sri Lanka,"culture, religion (Temple of the Tooth), history, lake, botanic
 Ella,Sri Lanka,"mountains, hiking, tea plantations, scenery, train journey, waterfalls, relaxation","Jan, Feb, Mar, Jul, Aug, Sep",,,,,,,,
 Habarana,Sri Lanka,"gateway to Sigiriya, gateway to Minneriya/Kaudulla parks (elephants), wildlife safaris, nature hub","Jan, Feb, Mar, Jul, Aug, Sep",,,,,,,,
 Mirissa,Sri Lanka,"beach, whale watching, surfing, relaxation, nightlife (beach bars), fishing harbour","Nov, Dec, Jan, Feb, Mar, Apr",,,,,,,,
+Dubrovnik,Croatia,"history, beaches, medieval architecture, Game of Thrones filming locations","May, Jun, Sep",1800.0,1200.0,600.0,800.0,2000.0,300.0,1000.0,7.0
+Santorini,Greece,"romance, beaches, sunsets, luxury, volcanic landscapes","May, Jun, Sep, Oct",2500.0,1800.0,700.0,1200.0,4000.0,400.0,1200.0,6.0
+Marrakech,Morocco,"culture, markets, desert, architecture, spices","Mar, Apr, Oct, Nov",1100.0,700.0,400.0,300.0,1500.0,200.0,800.0,6.5
+Cape Town,South Africa,"nature, Table Mountain, beaches, wine, wildlife","Nov, Dec, Jan, Feb, Mar",2200.0,1500.0,700.0,800.0,3000.0,400.0,1200.0,8.0
+Hoi An,Vietnam,"culture, lanterns, tailoring, beaches, history","Feb, Mar, Apr, May, Aug, Sep",900.0,600.0,300.0,300.0,1200.0,100.0,500.0,5.0
+Zermatt,Switzerland,"skiing, Matterhorn, hiking, luxury, alpine scenery","Dec, Jan, Feb, Jun, Jul, Aug",2800.0,2000.0,800.0,1500.0,5000.0,500.0,1500.0,6.0
+Salzburg,Austria,"music (Mozart), history, Sound of Music locations, Christmas markets","May, Jun, Jul, Aug, Dec",1700.0,1200.0,500.0,800.0,2000.0,300.0,800.0,5.0
+Valencia,Spain,"paella, futuristic architecture, beaches, festivals","Apr, May, Jun, Sep, Oct",1500.0,1000.0,500.0,600.0,2000.0,200.0,800.0,5.5
+Rotorua,New Zealand,"geothermal activity, Maori culture, adventure sports, lakes","Oct, Nov, Dec, Jan, Feb",1600.0,1100.0,500.0,700.0,2000.0,300.0,800.0,4.0
+Banff,Canada,"mountains, lakes, hiking, wildlife, skiing","Jun, Jul, Aug, Dec, Jan, Feb",2100.0,1500.0,600.0,1000.0,3000.0,400.0,1000.0,6.0
+Havana,Cuba,"vintage cars, music, colonial architecture, cigars, beaches","Nov, Dec, Jan, Feb, Mar",1400.0,900.0,500.0,500.0,2000.0,300.0,800.0,7.0
+Luang Prabang,Laos,"Buddhist temples, waterfalls, Mekong River, night markets","Nov, Dec, Jan, Feb",950.0,600.0,350.0,300.0,1200.0,150.0,600.0,5.0
+Zanzibar,Tanzania,"beaches, spice tours, Stone Town, diving","Jun, Jul, Aug, Sep, Jan, Feb",1700.0,1200.0,500.0,800.0,2500.0,300.0,800.0,7.0
+Patagonia,Argentina,"trekking, glaciers, mountains, wildlife","Nov, Dec, Jan, Feb",2300.0,1500.0,800.0,1000.0,3000.0,500.0,1500.0,10.0
+Siem Reap,Cambodia,"Angkor Wat, temples, culture, history","Nov, Dec, Jan, Feb",850.0,500.0,350.0,300.0,1000.0,150.0,600.0,4.0
+Tallinn,Estonia,"medieval old town, digital nomads, Christmas markets","May, Jun, Jul, Aug, Dec",1300.0,900.0,400.0,600.0,1500.0,200.0,700.0,4.0
+Riga,Latvia,"art nouveau architecture, nightlife, Baltic culture","May, Jun, Jul, Aug",1200.0,800.0,400.0,500.0,1500.0,200.0,700.0,4.0
+Vilnius,Lithuania,"baroque architecture, history, affordability","May, Jun, Jul, Aug",1100.0,700.0,400.0,400.0,1200.0,200.0,600.0,4.0
+Sofia,Bulgaria,"history, mountains, affordability, nightlife","May, Jun, Sep, Oct",900.0,600.0,300.0,300.0,1000.0,100.0,500.0,4.0
+Belgrade,Serbia,"nightlife, history, Danube River, affordability","Apr, May, Jun, Sep",950.0,600.0,350.0,400.0,1200.0,150.0,600.0,4.0
+Antalya,Turkey,"beaches, ancient ruins, resorts, waterfalls","Apr, May, Jun, Sep, Oct",1350.0,900.0,450.0,500.0,2000.0,200.0,800.0,7.0
+Baku,Azerbaijan,"modern architecture, oil history, Caspian Sea, medieval old town","Apr, May, Sep, Oct",1600.0,1100.0,500.0,700.0,2500.0,300.0,900.0,5.0
+Colombo,Sri Lanka,"colonial history, beaches, street food, temples","Dec, Jan, Feb, Mar",1200.0,800.0,400.0,400.0,1500.0,200.0,700.0,4.0
+Darjeeling,India,"tea plantations, Himalayan views, toy train, trekking","Mar, Apr, May, Sep, Oct, Nov",950.0,600.0,350.0,300.0,1200.0,150.0,600.0,5.0
+El Nido,Philippines,"island hopping, limestone cliffs, diving, beaches","Nov, Dec, Jan, Feb, Mar, Apr",1400.0,900.0,500.0,500.0,2000.0,300.0,800.0,6.0
+Fez,Morocco,"medieval medina, tanneries, crafts, Islamic architecture","Mar, Apr, Sep, Oct, Nov",1100.0,700.0,400.0,400.0,1500.0,200.0,700.0,4.0
+Gdansk,Poland,"Baltic coast, amber, WWII history, Gothic architecture","May, Jun, Jul, Aug, Sep",1300.0,900.0,400.0,600.0,1800.0,200.0,700.0,4.0
+Hoi An,Vietnam,"lanterns, tailoring, beaches, UNESCO town","Feb, Mar, Apr, May, Aug, Sep",900.0,600.0,300.0,300.0,1200.0,100.0,500.0,5.0
+Innsbruck,Austria,"Alps, skiing, imperial history, Golden Roof","Dec, Jan, Feb, Jun, Jul, Aug",1800.0,1300.0,500.0,900.0,2500.0,300.0,800.0,5.0
+Jeju Island,South Korea,"volcanoes, beaches, hiking, honeymoon spot","Apr, May, Sep, Oct",1500.0,1000.0,500.0,700.0,2000.0,300.0,800.0,5.0
+Krabi,Thailand,"rock climbing, beaches, islands, hot springs","Nov, Dec, Jan, Feb, Mar",1300.0,800.0,500.0,500.0,1500.0,300.0,800.0,6.0
+Lombok,Indonesia,"volcanoes, surfing, waterfalls, less crowded than Bali","May, Jun, Jul, Aug, Sep",1100.0,700.0,400.0,400.0,1500.0,200.0,700.0,6.0
+Malé,Maldives,"luxury resorts, overwater bungalows, diving, honeymoon","Nov, Dec, Jan, Feb, Mar",3500.0,3000.0,500.0,2000.0,6000.0,300.0,1000.0,7.0
+Nairobi,Kenya,"safari gateway, wildlife, Karen Blixen Museum","Jan, Feb, Jun, Jul, Aug, Sep",1700.0,1200.0,500.0,800.0,2500.0,300.0,900.0,4.0
+Oman,Oman,"desert forts, wadis, Arabian culture, diving","Oct, Nov, Feb, Mar",2200.0,1500.0,700.0,1000.0,3000.0,400.0,1200.0,7.0
+Penang,Malaysia,"street art, Peranakan culture, food, beaches","Nov, Dec, Jan, Feb",1250.0,800.0,450.0,500.0,1500.0,200.0,800.0,5.0
+Queenstown,New Zealand,"adventure sports, lakes, wine, Lord of the Rings scenery","Dec, Jan, Feb, Jun, Jul, Aug",2100.0,1500.0,600.0,1000.0,3000.0,400.0,1000.0,6.0
+Reykjavik,Iceland,"Northern Lights, geothermal spas, volcanoes, midnight sun","Sep, Oct, Feb, Mar, Apr",2500.0,1800.0,700.0,1200.0,4000.0,400.0,1200.0,7.0
+Salzburg,Austria,"Sound of Music, Mozart, baroque architecture, Christmas markets","May, Jun, Jul, Aug, Dec",1700.0,1200.0,500.0,800.0,2000.0,300.0,800.0,5.0
+Tbilisi,Georgia,"Soviet history, wine, Caucasus Mountains, sulfur baths","May, Jun, Sep, Oct",1200.0,800.0,400.0,500.0,1500.0,200.0,700.0,5.0
+Ubud,Indonesia,"rice terraces, yoga, temples, jungle","Apr, May, Jun, Jul, Aug, Sep",1150.0,700.0,450.0,400.0,1500.0,200.0,800.0,6.0
+Valparaíso,Chile,"street art, colorful houses, Pablo Neruda, bohemian culture","Sep, Oct, Nov, Dec, Jan, Feb, Mar",1400.0,900.0,500.0,600.0,2000.0,300.0,800.0,4.0
+Wroclaw,Poland,"dwarves statues, Gothic architecture, Oder River, affordability","May, Jun, Jul, Aug, Sep",1100.0,700.0,400.0,400.0,1200.0,200.0,600.0,4.0
+Yangon,Myanmar,"Shwedagon Pagoda, colonial architecture, Burmese culture","Nov, Dec, Jan, Feb",1050.0,700.0,350.0,400.0,1200.0,150.0,600.0,4.0
+Zanzibar,Tanzania,"spice tours, Stone Town, white sand beaches, diving","Jun, Jul, Aug, Sep, Jan, Feb",1700.0,1200.0,500.0,800.0,2500.0,300.0,900.0,7.0
+Ålesund,Norway,"Art Nouveau architecture, fjords, hiking, fishing","May, Jun, Jul, Aug",2200.0,1500.0,700.0,1000.0,3000.0,400.0,1200.0,5.0
+Český Krumlov,Czech Republic,"medieval castle, Vltava River, Renaissance architecture","May, Jun, Jul, Aug, Sep",1250.0,800.0,450.0,500.0,1500.0,200.0,800.0,3.0
+Évora,Portugal,"Roman ruins, medieval walls, cork production, UNESCO","Mar, Apr, May, Sep, Oct",1100.0,700.0,400.0,400.0,1500.0,200.0,700.0,3.0
+Ísafjörður,Iceland,"Arctic Circle, fjords, hiking, Northern Lights","Sep, Oct, Feb, Mar, Apr",1900.0,1300.0,600.0,900.0,2500.0,400.0,1000.0,4.0
+Óbidos,Portugal,"medieval walls, chocolate festival, cherry liqueur","Mar, Apr, May, Sep, Oct",1050.0,700.0,350.0,400.0,1200.0,150.0,600.0,2.0
+Úbeda,Spain,"Renaissance architecture, olive oil, Andalusia","Mar, Apr, May, Sep, Oct",1150.0,800.0,350.0,500.0,1500.0,200.0,600.0,3.0
+Tromsø,Norway,"Northern Lights, Arctic Cathedral, whale watching","Sep, Oct, Nov, Dec, Jan, Feb, Mar",2300.0,1600.0,700.0,1100.0,3000.0,400.0,1200.0,5.0
+Salta,Argentina,"colonial architecture, Andean culture, wine, Train to the Clouds","Apr, May, Jun, Sep, Oct, Nov",1300.0,900.0,400.0,600.0,1800.0,200.0,700.0,5.0
+Paraty,Brazil,"colonial town, beaches, jungle, boat trips","Apr, May, Jun, Jul, Aug, Sep",1500.0,1000.0,500.0,700.0,2000.0,300.0,800.0,5.0
+Huế,Vietnam,"imperial citadel, royal tombs, Perfume River","Feb, Mar, Apr, Aug, Sep",950.0,600.0,350.0,300.0,1200.0,150.0,600.0,3.0
+Siem Reap,Cambodia,"Angkor Wat, floating villages, Khmer cuisine","Nov, Dec, Jan, Feb",850.0,500.0,350.0,300.0,1000.0,150.0,600.0,4.0
+Pokhara,Nepal,"Annapurna views, lakes, trekking, paragliding","Mar, Apr, May, Sep, Oct, Nov",900.0,600.0,300.0,300.0,1200.0,100.0,500.0,5.0
+Luang Prabang,Laos,"Buddhist temples, waterfalls, Mekong River","Nov, Dec, Jan, Feb",950.0,600.0,350.0,300.0,1200.0,150.0,600.0,5.0
+Galle,Sri Lanka,"Dutch fort, beaches, cricket, colonial history","Dec, Jan, Feb, Mar",1200.0,800.0,400.0,400.0,1500.0,200.0,700.0,4.0
+Koh Rong,Cambodia,"pristine beaches, bioluminescent plankton, jungle","Nov, Dec, Jan, Feb, Mar",1100.0,700.0,400.0,400.0,1500.0,200.0,700.0,5.0
+Nha Trang,Vietnam,"diving, beaches, mud baths, islands","Feb, Mar, Apr, May, Aug, Sep",1000.0,700.0,300.0,400.0,1200.0,100.0,500.0,5.0
+Koh Samui,Thailand,"beaches, full moon parties, luxury resorts","Jan, Feb, Mar, Jul, Aug",1600.0,1100.0,500.0,700.0,2500.0,300.0,900.0,6.0
+Koh Tao,Thailand,"diving, snorkeling, budget-friendly, marine life","Mar, Apr, May, Jun, Jul, Aug, Sep",1300.0,800.0,500.0,500.0,1500.0,300.0,800.0,6.0
+El Calafate,Argentina,"Perito Moreno Glacier, trekking, Patagonian steppe","Oct, Nov, Dec, Jan, Feb, Mar",1800.0,1200.0,600.0,800.0,2500.0,400.0,1000.0,5.0
+Puerto Natales,Chile,"Torres del Paine, trekking, fjords","Oct, Nov, Dec, Jan, Feb, Mar",1700.0,1100.0,600.0,700.0,2200.0,400.0,1000.0,6.0
+San Carlos de Bariloche,Argentina,"lakes, chocolate, skiing, Swiss-style architecture","Jun, Jul, Aug, Dec, Jan, Feb",1600.0,1100.0,500.0,700.0,2200.0,300.0,900.0,5.0
+Puerto Varas,Chile,"Osorno Volcano, German heritage, lake views","Oct, Nov, Dec, Jan, Feb, Mar",1500.0,1000.0,500.0,600.0,2000.0,300.0,800.0,5.0
+Valdivia,Chile,"rivers, craft beer, sea lions, German influence","Oct, Nov, Dec, Jan, Feb, Mar",1300.0,900.0,400.0,600.0,1800.0,200.0,700.0,4.0
+Pucón,Chile,"Villarrica Volcano, hot springs, adventure sports","Dec, Jan, Feb, Mar",1400.0,900.0,500.0,600.0,2000.0,300.0,800.0,5.0
+Puerto Montt,Chile,"Chiloé Island gateway, seafood, fjords","Oct, Nov, Dec, Jan, Feb, Mar",1200.0,800.0,400.0,500.0,1500.0,200.0,700.0,4.0
+Chaitén,Chile,"Pumalín Park, volcanoes, untouched nature","Nov, Dec, Jan, Feb, Mar",1100.0,700.0,400.0,400.0,1500.0,200.0,700.0,5.0
+Coyhaique,Chile,"Carretera Austral, hiking, glaciers","Nov, Dec, Jan, Feb, Mar",1300.0,900.0,400.0,600.0,1800.0,200.0,700.0,6.0
+Queenstown,New Zealand,"bungee jumping, skydiving, jet boating, alpine scenery","Dec, Jan, Feb",2800.0,1800.0,1000.0,1200.0,4000.0,500.0,2000.0,7.0
+Interlaken,Switzerland,"paragliding, canyon swinging, hiking, skiing","Jun, Jul, Aug",3200.0,2200.0,1000.0,1500.0,5000.0,600.0,2500.0,6.0
+Moab,USA,"rock climbing, mountain biking, off-roading, Arches NP","Mar, Apr, May, Sep, Oct",1800.0,1200.0,600.0,800.0,3000.0,300.0,1200.0,5.0
+Petra,Jordan,"archaeology, Nabatean tombs, desert landscapes","Mar, Apr, Oct, Nov",1500.0,900.0,600.0,500.0,2000.0,300.0,1200.0,3.0
+Angkor Wat,Cambodia,"Khmer temples, sunrise views, jungle ruins","Nov, Dec, Jan, Feb",950.0,600.0,350.0,300.0,1500.0,150.0,600.0,4.0
+Cartagena,Colombia,"colonial architecture, walled city, Caribbean culture","Dec, Jan, Feb",2100.0,1500.0,600.0,800.0,3000.0,400.0,1500.0,6.0
+Tuscany,Italy,"Chianti vineyards, medieval villages, gastronomy","Sep, Oct",2500.0,1800.0,700.0,1200.0,4000.0,400.0,1500.0,8.0
+Napa Valley,USA,"wine tasting, hot air balloons, Michelin restaurants","Aug, Sep, Oct",3800.0,2800.0,1000.0,2000.0,6000.0,500.0,2500.0,5.0
+Mendoza,Argentina,"Malbec, Andes views, adventure sports","Mar, Apr, Oct, Nov",1700.0,1200.0,500.0,800.0,2500.0,300.0,1200.0,7.0
+Bora Bora,French Polynesia,"overwater bungalows, lagoon snorkeling, luxury","May, Jun, Jul, Aug, Sep",5500.0,4800.0,700.0,3500.0,10000.0,500.0,1500.0,8.0
+Seychelles,Seychelles,"granite beaches, giant tortoises, coral reefs","Apr, May, Oct, Nov",4200.0,3500.0,700.0,2500.0,8000.0,400.0,1500.0,9.0
+Palawan,Philippines,"underground river, limestone cliffs, diving","Nov, Dec, Jan, Feb",1800.0,1200.0,600.0,800.0,2500.0,300.0,1200.0,10.0
+Tbilisi,Georgia,"Soviet architecture, wine caves, Caucasus trekking","May, Jun, Sep",1300.0,800.0,500.0,500.0,2000.0,300.0,1000.0,6.0
+Albania,Albania,"ancient ruins, Riviera beaches, bunkers","May, Jun, Sep",1100.0,700.0,400.0,400.0,1500.0,200.0,800.0,7.0
+Bhutan,Bhutan,"Buddhist monasteries, Himalayan trekking, Gross National Happiness","Mar, Apr, Oct, Nov",3500.0,2800.0,700.0,2000.0,5000.0,500.0,1500.0,10.0
+Trans-Siberian Railway,Russia,"taiga landscapes, cultural immersion, longest railway","Jun, Jul, Aug",5000.0,3500.0,1500.0,2500.0,8000.0,1000.0,3000.0,14.0
+Rocky Mountaineer,Canada,"Canadian Rockies, glass-dome trains, wildlife","May, Jun, Jul, Aug, Sep",4500.0,3800.0,700.0,3000.0,7000.0,500.0,1500.0,7.0
+Belmond Hiram Bingham,Peru,"Machu Picchu route, luxury, Andean scenery","Apr, May, Sep, Oct",2800.0,2200.0,600.0,1500.0,4000.0,400.0,1200.0,2.0
+Galápagos,Ecuador,"giant tortoises, marine iguanas, diving","Jun, Jul, Aug, Sep",4800.0,3500.0,1300.0,2500.0,8000.0,800.0,2500.0,10.0
+Serengeti,Tanzania,"Great Migration, Big Five, safari camps","Jul, Aug, Sep",5200.0,4000.0,1200.0,3000.0,10000.0,800.0,3000.0,8.0
+Churchill,Canada,"polar bears, beluga whales, Arctic tundra","Oct, Nov, Feb, Mar",3800.0,2800.0,1000.0,2000.0,6000.0,600.0,2000.0,6.0
+Dublin,Ireland,"James Joyce, Book of Kells, literary pubs","Jun, Jul, Aug",1900.0,1300.0,600.0,800.0,3000.0,300.0,1200.0,5.0
+Edinburgh,Scotland,"Harry Potter inspiration, Writers' Museum","Aug, Sep",2100.0,1500.0,600.0,1000.0,3500.0,400.0,1500.0,6.0
+Stratford-upon-Avon,England,"Shakespeare's birthplace, Tudor architecture","Apr, May, Jun, Sep",1750.0,1200.0,550.0,800.0,2500.0,300.0,1000.0,3.0
+Dubai,UAE,"Burj Khalifa, Palm Islands, desert tech","Nov, Dec, Jan, Feb",4500.0,3500.0,1000.0,2500.0,10000.0,600.0,2500.0,7.0
+Singapore,Singapore,"Gardens by the Bay, Marina Bay Sands","Feb, Mar, Apr",2300.0,1800.0,500.0,1200.0,4000.0,300.0,1200.0,6.0
+Shanghai,China,"Oriental Pearl Tower, futuristic skyline","Apr, May, Sep, Oct",2100.0,1500.0,600.0,1000.0,3500.0,400.0,1500.0,6.0
+Omo Valley,Ethiopia,"tribal villages, body painting, ceremonies","Jan, Feb, Jun, Jul, Aug, Dec",1800.0,1200.0,600.0,800.0,2500.0,400.0,1200.0,10.0
+Baliem Valley,Indonesia,"Dani tribe, jungle trekking, stone tools","Apr, May, Jun, Jul, Aug, Sep",2200.0,1500.0,700.0,1000.0,3000.0,500.0,1500.0,12.0
+Rajasthan,India,"Rajput forts, camel safaris, Pushkar Fair","Oct, Nov, Dec, Jan, Feb",1600.0,1100.0,500.0,700.0,2500.0,300.0,1200.0,14.0
+Reykjavik,Iceland,"Northern Lights, geothermal spas, volcanoes","Sep, Oct, Feb, Mar",2500.0,1800.0,700.0,1200.0,4000.0,400.0,1200.0,7.0
+Cappadocia,Turkey,"hot air balloons, cave hotels, fairy chimneys","Apr, May, Sep, Oct",1800.0,1200.0,600.0,800.0,2500.0,400.0,1200.0,4.0
+Sossusvlei,Namibia,"red dunes, Deadvlei, stargazing","May, Jun, Jul, Aug, Sep",2200.0,1500.0,700.0,1000.0,3000.0,500.0,1500.0,5.0
+Svalbard,Norway,"Arctic wilderness, polar bears, midnight sun","May, Jun, Jul, Aug",4500.0,3500.0,1000.0,2500.0,8000.0,600.0,2500.0,7.0
+Siem Reap,Cambodia,"Angkor Wat, floating villages, Khmer cuisine","Nov, Dec, Jan, Feb",850.0,500.0,350.0,300.0,1000.0,150.0,600.0,4.0
+Tokyo,Japan,"technology, culture, food, shopping, temples, anime, cityscape","Mar, Apr, Oct, Nov",3100.0,2000.0,1100.0,800.0,4000.0,300.0,1500.0,7.0
+Bangkok,Thailand,"temples, street food, nightlife, culture, budget-friendly","Nov, Dec, Jan, Feb",1500.0,900.0,600.0,200.0,1800.0,100.0,1000.0,9.0
+Cape Town,South Africa,"mountains, beaches, vineyards, nature, adventure","Nov, Dec, Jan, Feb",1800.0,1000.0,800.0,300.0,2000.0,200.0,1000.0,8.0
+New York,USA,"city, culture, landmarks, food, museums, shopping, theatre","Apr, May, Sep, Oct",2900.0,1900.0,1000.0,700.0,4500.0,300.0,2000.0,6.0
+Barcelona,Spain,"architecture, beaches, nightlife, culture, art, food","May, Jun, Sep",2400.0,1600.0,800.0,600.0,3500.0,300.0,1200.0,7.0
+Istanbul,Turkey,"history, mosques, markets, culture, food, landmarks","Apr, May, Sep, Oct",1900.0,1200.0,700.0,400.0,2500.0,200.0,1000.0,6.5
+Reykjavik,Iceland,"nature, northern lights, geysers, adventure, glaciers","Feb, Mar, Oct, Nov",3300.0,2100.0,1200.0,1000.0,4000.0,400.0,1800.0,7.0
+Lisbon,Portugal,"culture, music, history, food, budget-friendly, architecture","Apr, May, Sep",1800.0,1100.0,700.0,300.0,2000.0,150.0,1000.0,7.5
+Buenos Aires,Argentina,"culture, tango, food, history, nightlife","Mar, Apr, Oct, Nov",1700.0,1000.0,700.0,200.0,1800.0,100.0,1000.0,9.0
+Hanoi,Vietnam,"culture, food, markets, temples, history, budget-friendly","Mar, Apr, Oct, Nov",1300.0,800.0,500.0,100.0,1200.0,50.0,800.0,10.0
+Cairo,Egypt,"pyramids, history, culture, museums, landmarks","Oct, Nov, Feb, Mar",2000.0,1300.0,700.0,500.0,2500.0,200.0,1200.0,7.0
+Auckland,New Zealand,"nature, adventure, beaches, mountains, hiking","Nov, Dec, Jan, Feb",2800.0,1800.0,1000.0,800.0,3200.0,300.0,1500.0,8.0
+Dubai,UAE,"luxury, shopping, architecture, desert, nightlife","Nov, Dec, Jan, Feb",3200.0,2200.0,1000.0,900.0,4000.0,400.0,1800.0,6.5
+Lima,Peru,"culture, history, food, landmarks, budget-friendly","Apr, May, Sep",1600.0,1000.0,600.0,300.0,1800.0,200.0,900.0,8.0
+Toronto,Canada,"city, culture, museums, shopping, food","May, Jun, Sep, Oct",2500.0,1600.0,900.0,700.0,3000.0,300.0,1300.0,7.0
+Oslo,Norway,"nature, fjords, museums, culture, hiking","Jun, Jul, Aug",3100.0,2100.0,1000.0,1500.0,4000.0,400.0,1400.0,6.5
+Seoul,South Korea,"technology, culture, food, shopping, nightlife","Apr, May, Sep, Oct",2600.0,1600.0,1000.0,700.0,3000.0,300.0,1300.0,7.0
+Havana,Cuba,"culture, music, history, beaches, budget-friendly","Dec, Jan, Feb, Mar",1400.0,900.0,500.0,200.0,1500.0,100.0,800.0,8.0
+Sydney,Australia,"beaches, culture, nature, adventure, landmarks","Nov, Dec, Jan, Feb",3100.0,2000.0,1100.0,800.0,3500.0,400.0,1500.0,7.5
+Amsterdam,Netherlands,"canals, museums, history, nightlife, culture","May, Jun, Sep",2600.0,1700.0,900.0,800.0,3000.0,300.0,1100.0,6.5
+Kuala Lumpur,Malaysia,"culture, food, shopping, temples, budget-friendly","Jan, Feb, Mar",1400.0,900.0,500.0,200.0,1600.0,150.0,800.0,8.0
+Vancouver,Canada,"nature, mountains, city, hiking, food","May, Jun, Sep",2700.0,1800.0,900.0,1000.0,3200.0,300.0,1200.0,6.5
+Marrakech,Morocco,"markets, culture, architecture, food, desert","Mar, Apr, Oct, Nov",1900.0,1200.0,700.0,500.0,2500.0,200.0,1000.0,7.0
+Helsinki,Finland,"design, architecture, nature, museums, culture","Jun, Jul, Aug",2800.0,1900.0,900.0,1200.0,3200.0,400.0,1100.0,6.0
+Athens,Greece,"history, ruins, culture, food, landmarks","Apr, May, Sep, Oct",2200.0,1400.0,800.0,600.0,2800.0,200.0,1000.0,7.0
+Bogotá,Colombia,"culture, museums, food, nightlife, budget-friendly","Mar, Apr, Aug, Sep",1600.0,1000.0,600.0,300.0,1800.0,150.0,900.0,8.5
+Melbourne,Australia,"culture, art, food, beaches, sports","Nov, Dec, Jan, Feb",2900.0,1800.0,1100.0,800.0,3500.0,300.0,1300.0,7.0
+Stockholm,Sweden,"history, museums, design, nature, culture","Jun, Jul, Aug",3000.0,2000.0,1000.0,1500.0,3500.0,400.0,1300.0,6.5
+Doha,Qatar,"modern architecture, shopping, desert, culture","Nov, Dec, Jan, Feb",2700.0,1800.0,900.0,900.0,3200.0,300.0,1000.0,6.0
+Quito,Ecuador,"history, mountains, culture, budget-friendly","Apr, May, Oct, Nov",1600.0,1000.0,600.0,300.0,1800.0,200.0,900.0,9.0
+Bogotá,Colombia,"culture, museums, food, nightlife, history","Mar, Apr, Aug, Sep",1600.0,1000.0,600.0,300.0,1800.0,150.0,900.0,8.5
+Medellín,Colombia,"culture, innovation, art, nightlife, flowers","Feb, Mar, Aug, Sep",1500.0,900.0,600.0,250.0,1600.0,100.0,800.0,7.0
+Cartagena,Colombia,"beach, history, colonial, culture, food","Dec, Jan, Feb, Mar",1700.0,1000.0,700.0,300.0,1800.0,150.0,1000.0,6.0
+Santa Marta,Colombia,"beach, nature, Tayrona Park, adventure, culture","Dec, Jan, Jul, Aug",1500.0,950.0,550.0,200.0,1700.0,100.0,800.0,7.0
+Cali,Colombia,"salsa, nightlife, culture, food, festivals","Jan, Feb, Jun, Sep",1400.0,900.0,500.0,200.0,1500.0,100.0,700.0,6.5
+San Andrés,Colombia,"beach, island, snorkeling, nature, shopping","Jan, Feb, Mar, Jul",1800.0,1100.0,700.0,400.0,2000.0,200.0,1000.0,6.5
+Pereira,Colombia,"coffee, nature, mountains, hot springs","Jun, Jul, Aug, Dec",1500.0,1000.0,500.0,300.0,1600.0,150.0,800.0,7.0
+Manizales,Colombia,"coffee, mountains, culture, volcano, budget-friendly","Jul, Aug, Sep",1450.0,950.0,500.0,250.0,1550.0,100.0,750.0,6.0
+Popayán,Colombia,"colonial, history, culture, religion","Mar, Apr, Sep, Oct",1300.0,850.0,450.0,200.0,1400.0,100.0,700.0,6.5
+Villa de Leyva,Colombia,"colonial, history, nature, quiet, romantic","Apr, May, Oct",1400.0,900.0,500.0,300.0,1600.0,150.0,800.0,5.5
+Leticia,Colombia,"amazon, nature, wildlife, adventure, river","Jun, Jul, Aug",1600.0,1000.0,600.0,350.0,1700.0,200.0,900.0,7.5
+Neiva,Colombia,"desert, festivals, culture, warm weather","Jun, Jul",1300.0,850.0,450.0,200.0,1400.0,100.0,650.0,5.0
+Tunja,Colombia,"colonial, history, mountains, religion","May, Jun, Jul",1250.0,800.0,450.0,200.0,1300.0,100.0,600.0,5.0
+Barranquilla,Colombia,"carnival, culture, nightlife, food, coast","Feb, Mar",1600.0,950.0,650.0,300.0,1700.0,150.0,900.0,6.0
+Armenia,Colombia,"coffee, nature, culture, adventure","Jun, Jul, Dec",1450.0,950.0,500.0,300.0,1500.0,100.0,750.0,6.5
+Riohacha,Colombia,"desert, beach, Wayuu culture, nature","Dec, Jan, Jul, Aug",1350.0,850.0,500.0,250.0,1400.0,100.0,700.0,5.5
+Ipiales,Colombia,"religion, Las Lajas Sanctuary, culture, border","May, Jun, Aug",1300.0,850.0,450.0,200.0,1400.0,100.0,600.0,5.0
+Pasto,Colombia,"culture, volcanoes, carnival, nature","Jan, Jun, Sep",1400.0,900.0,500.0,250.0,1500.0,100.0,700.0,6.0
+Mocoa,Colombia,"amazon, nature, waterfalls, adventure","May, Jun, Jul",1250.0,800.0,450.0,200.0,1300.0,100.0,600.0,6.5
+Montería,Colombia,"culture, rivers, warm weather, regional food","Jan, Feb, Aug",1350.0,850.0,500.0,250.0,1400.0,100.0,650.0,5.5
+Rio de Janeiro,Brazil,"beach, landmarks, carnival, culture, nightlife","Feb, Mar, Sep, Oct",2400.0,1500.0,900.0,500.0,3000.0,300.0,1200.0,7.0
+São Paulo,Brazil,"city, culture, museums, nightlife, business","Mar, Apr, Oct",2300.0,1500.0,800.0,600.0,2700.0,300.0,1000.0,6.5
+Salvador,Brazil,"beach, afro-brazilian culture, music, food","Jan, Feb, Mar",2100.0,1300.0,800.0,400.0,2500.0,200.0,1000.0,7.0
+Fortaleza,Brazil,"beaches, nightlife, kitesurfing, nature","Aug, Sep, Dec",2000.0,1300.0,700.0,400.0,2200.0,200.0,900.0,6.5
+Recife,Brazil,"beaches, culture, carnival, music, food","Feb, Mar, Nov",1900.0,1200.0,700.0,300.0,2100.0,200.0,900.0,6.0
+Brasília,Brazil,"architecture, culture, landmarks, history","Apr, May, Jun",2000.0,1300.0,700.0,400.0,2200.0,200.0,900.0,6.0
+Belo Horizonte,Brazil,"culture, museums, food, architecture","Mar, Apr, Oct",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.5
+Manaus,Brazil,"amazon, rainforest, adventure, nature","Jun, Jul, Aug",2100.0,1300.0,800.0,500.0,2300.0,300.0,1000.0,7.5
+Natal,Brazil,"beaches, sand dunes, nature, warm weather","Aug, Sep, Dec",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.0
+João Pessoa,Brazil,"beaches, quiet, nature, culture","Sep, Oct, Nov",1800.0,1100.0,700.0,350.0,1900.0,200.0,800.0,6.0
+Florianópolis,Brazil,"beaches, nature, surfing, food","Jan, Feb, Dec",2000.0,1300.0,700.0,400.0,2200.0,200.0,850.0,6.5
+Curitiba,Brazil,"urban planning, culture, parks, architecture","Mar, Apr, Oct",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.0
+Campo Grande,Brazil,"nature, wildlife, pantanal, culture","May, Jun, Jul",1850.0,1150.0,700.0,350.0,2000.0,200.0,850.0,6.5
+Porto Alegre,Brazil,"culture, food, urban life, nature","Apr, May, Oct",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.0
+Foz do Iguaçu,Brazil,"waterfalls, nature, adventure, borders","Jul, Aug, Sep",2100.0,1300.0,800.0,500.0,2300.0,300.0,1000.0,7.0
+Ilhéus,Brazil,"beaches, cocoa, history, nature","Jan, Feb, Dec",1800.0,1100.0,700.0,350.0,2000.0,200.0,850.0,6.5
+São Luís,Brazil,"culture, history, colonial, beaches","Mar, Apr, May",1850.0,1150.0,700.0,400.0,2000.0,200.0,850.0,6.0
+Maceió,Brazil,"beaches, coral reefs, nature, food","Aug, Sep, Nov",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.0
+Aracaju,Brazil,"beaches, quiet, food, culture","Sep, Oct, Nov",1750.0,1100.0,650.0,350.0,1900.0,200.0,800.0,5.5
+Paraty,Brazil,"colonial, culture, beaches, history, nature","May, Jun, Oct",1800.0,1150.0,650.0,400.0,2000.0,200.0,800.0,6.0
+Lençóis,Brazil,"nature, trekking, Chapada Diamantina, adventure","Jun, Jul, Aug",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.5
+Marrakech,Morocco,"markets, culture, architecture, food, desert","Mar, Apr, Oct, Nov",1700.0,1000.0,700.0,300.0,1800.0,200.0,1000.0,6.5
+Fes,Morocco,"history, medina, culture, religion, architecture","Mar, Apr, Oct",1650.0,950.0,700.0,250.0,1700.0,200.0,900.0,6.0
+Casablanca,Morocco,"coast, modernity, culture, food","Mar, Apr, Oct",1800.0,1100.0,700.0,300.0,1900.0,250.0,1000.0,5.5
+Cape Town,South Africa,"nature, wine, beaches, Table Mountain, culture","Nov, Dec, Jan, Mar",2400.0,1500.0,900.0,500.0,2600.0,300.0,1200.0,7.0
+Johannesburg,South Africa,"culture, history, apartheid museum, urban","Sep, Oct, Mar",2000.0,1300.0,700.0,400.0,2200.0,250.0,1000.0,6.0
+Durban,South Africa,"beach, Indian culture, food, surfing","Oct, Nov, Feb",1900.0,1200.0,700.0,400.0,2000.0,200.0,850.0,6.0
+Arusha,Tanzania,"safari, Kilimanjaro, wildlife, culture","Jul, Aug, Sep",2200.0,1300.0,900.0,500.0,2400.0,300.0,1100.0,7.5
+Zanzibar,Tanzania,"beaches, culture, snorkeling, historic sites","Jul, Aug, Dec, Jan",2100.0,1250.0,850.0,500.0,2300.0,300.0,1000.0,6.5
+Cairo,Egypt,"history, pyramids, museums, culture, religion","Oct, Nov, Mar",1900.0,1150.0,750.0,400.0,2100.0,200.0,950.0,6.5
+Luxor,Egypt,"temples, history, Nile River, culture","Oct, Nov, Feb, Mar",1800.0,1100.0,700.0,400.0,2000.0,200.0,900.0,6.0
+Aswan,Egypt,"Nile cruises, temples, desert, history","Nov, Dec, Jan",1850.0,1150.0,700.0,400.0,1950.0,200.0,850.0,6.0
+Nairobi,Kenya,"wildlife, safaris, culture, city life","Jul, Aug, Sep",2100.0,1300.0,800.0,400.0,2200.0,300.0,1000.0,7.0
+Mombasa,Kenya,"beaches, Swahili culture, diving, history","Jul, Aug, Dec",2000.0,1200.0,800.0,400.0,2100.0,250.0,900.0,6.5
+Windhoek,Namibia,"desert, culture, wildlife, colonial","Jun, Jul, Aug",2000.0,1250.0,750.0,450.0,2200.0,250.0,900.0,6.5
+Swakopmund,Namibia,"coast, desert, adventure sports, German heritage","Jul, Aug, Sep",1900.0,1200.0,700.0,400.0,2100.0,200.0,850.0,6.0
+Victoria Falls,Zimbabwe,"waterfalls, adventure, nature, border","May, Jun, Aug",2300.0,1400.0,900.0,500.0,2500.0,300.0,1100.0,7.0
+Kigali,Rwanda,"clean city, history, memorials, culture","Jun, Jul, Sep",1850.0,1150.0,700.0,400.0,2000.0,200.0,900.0,6.5
+Addis Ababa,Ethiopia,"culture, history, religion, food","Oct, Nov, Mar",1800.0,1100.0,700.0,350.0,2000.0,200.0,850.0,6.0
+Dakar,Senegal,"culture, music, islands, markets","Dec, Jan, Feb",1900.0,1150.0,750.0,400.0,2100.0,200.0,950.0,6.5
+Accra,Ghana,"culture, history, coast, food","Dec, Jan, Feb",1850.0,1150.0,700.0,400.0,2000.0,200.0,850.0,6.0
+Essaouira,Morocco,"coastal, surfing, seafood, culture, laid-back","Apr, May, Sep",1650.0,950.0,700.0,300.0,1700.0,200.0,900.0,6.0
+Chefchaouen,Morocco,"blue city, photography, mountain, culture","Mar, Apr, Sep",1600.0,950.0,650.0,250.0,1600.0,150.0,800.0,5.5
+Agadir,Morocco,"beaches, resorts, water sports, markets","May, Jun, Oct",1700.0,1000.0,700.0,300.0,1800.0,200.0,900.0,6.0
+Gaborone,Botswana,"urban, culture, gateway to safaris","Jun, Jul, Sep",2000.0,1200.0,800.0,400.0,2100.0,250.0,950.0,6.0
+Maun,Botswana,"Okavango Delta, safaris, nature","Jul, Aug, Sep",2400.0,1400.0,1000.0,500.0,2500.0,300.0,1200.0,7.0
+Toamasina,Madagascar,"coast, biodiversity, culture","Jun, Jul, Aug",2000.0,1250.0,750.0,400.0,2100.0,200.0,900.0,6.5
+Antananarivo,Madagascar,"culture, wildlife, history","May, Jun, Sep",1850.0,1150.0,700.0,400.0,1950.0,200.0,850.0,6.0
+Lalibela,Ethiopia,"religious heritage, stone churches, history","Oct, Nov, Mar",1800.0,1100.0,700.0,400.0,1900.0,200.0,850.0,5.5
+Asmara,Eritrea,"colonial architecture, culture, low tourism","Dec, Jan, Feb",1750.0,1050.0,700.0,400.0,1800.0,200.0,850.0,6.0
+Kampala,Uganda,"culture, city life, nature escapes","Jun, Jul, Sep",1900.0,1150.0,750.0,400.0,2000.0,200.0,950.0,6.0
+Jinja,Uganda,"source of the Nile, rafting, nature","Jun, Jul, Sep",1950.0,1150.0,800.0,400.0,2050.0,250.0,950.0,6.0
+Maputo,Mozambique,"coast, seafood, culture, Portuguese heritage","May, Jun, Sep",1900.0,1150.0,750.0,400.0,2000.0,200.0,900.0,6.0
+Banjul,Gambia,"beaches, culture, low-cost, wildlife","Dec, Jan, Feb",1750.0,1050.0,700.0,350.0,1850.0,200.0,850.0,6.0
+Nouakchott,Mauritania,"desert, Islamic culture, off-the-beaten-path","Jan, Feb, Nov",1800.0,1100.0,700.0,350.0,1900.0,200.0,850.0,5.5
+Seychelles,Seychelles,"islands, luxury, beaches, diving","Apr, May, Oct, Nov",3000.0,2000.0,1000.0,1000.0,4000.0,500.0,1500.0,7.5
+Sydney,Australia,"beaches, culture, landmarks, nightlife, museums","Sep, Oct, Nov, Dec, Mar, Apr",2800.0,1800.0,1000.0,600.0,3200.0,400.0,1200.0,7.0
+Melbourne,Australia,"culture, food, arts, coffee, sports","Sep, Oct, Nov, Mar, Apr",2700.0,1750.0,950.0,600.0,3000.0,350.0,1100.0,7.0
+Brisbane,Australia,"beaches, outdoors, food, family-friendly","Sep, Oct, Nov, Mar",2600.0,1700.0,900.0,600.0,2900.0,350.0,1100.0,6.5
+Auckland,New Zealand,"nature, culture, harbors, hiking","Nov, Dec, Jan, Feb, Mar",2500.0,1600.0,900.0,600.0,2800.0,350.0,1100.0,7.0
+Queenstown,New Zealand,"adventure, skiing, lakes, hiking","Dec, Jan, Feb, Mar",2600.0,1650.0,950.0,700.0,2900.0,400.0,1100.0,7.5
+Wellington,New Zealand,"culture, museums, food, harbors","Nov, Dec, Jan, Feb, Mar",2400.0,1500.0,900.0,600.0,2700.0,350.0,1050.0,6.5
+Nadi,Fiji,"beaches, resorts, snorkeling, culture","May, Jun, Jul, Aug, Sep",2300.0,1400.0,900.0,600.0,2600.0,350.0,900.0,6.0
+Suva,Fiji,"culture, markets, islands, history","May, Jun, Jul, Aug",2200.0,1300.0,900.0,600.0,2500.0,300.0,850.0,6.0
+Apia,Samoa,"beaches, culture, nature, islands","Jun, Jul, Aug, Sep",2100.0,1200.0,900.0,600.0,2400.0,300.0,900.0,6.0
+Port Moresby,Papua New Guinea,"culture, history, diving, adventure","Jul, Aug, Sep",2200.0,1300.0,900.0,600.0,2500.0,300.0,900.0,6.0
+Hobart,Australia,"nature, history, food, wine","Dec, Jan, Feb",2500.0,1600.0,900.0,600.0,2800.0,350.0,900.0,6.5
+Rotorua,New Zealand,"geothermal, Maori culture, nature","Nov, Dec, Jan, Feb",2400.0,1500.0,900.0,600.0,2700.0,350.0,900.0,6.0
+Byron Bay,Australia,"beaches, surfing, laid-back, nature","Sep, Oct, Nov, Mar, Apr",2600.0,1700.0,900.0,600.0,2900.0,350.0,900.0,6.5
+Cairns,Australia,"Great Barrier Reef, rainforests, adventure","Jun, Jul, Aug, Sep",2700.0,1750.0,950.0,700.0,3000.0,400.0,1000.0,7.0
+Noosa,Australia,"beaches, national parks, surfing","Sep, Oct, Nov, Mar",2500.0,1600.0,900.0,600.0,2800.0,350.0,900.0,6.0
+Alice Springs,Australia,"desert, indigenous culture, outback, adventure","May, Jun, Jul, Aug",2200.0,1300.0,900.0,600.0,2500.0,350.0,900.0,6.5
+Darwin,Australia,"tropical, nature, culture, wildlife","Jun, Jul, Aug, Sep",2300.0,1400.0,900.0,600.0,2600.0,350.0,950.0,6.5
+Gold Coast,Australia,"beaches, theme parks, nightlife, surfing","Sep, Oct, Nov, Mar, Apr",2700.0,1700.0,1000.0,700.0,3000.0,400.0,1100.0,7.0
+Tasmania,Hobart,"nature, wilderness, hiking, food","Dec, Jan, Feb",2500.0,1600.0,900.0,600.0,2800.0,350.0,900.0,6.5
+Noumea,New Caledonia,"beaches, French culture, reefs, nature","Sep, Oct, Nov, Apr, May",2400.0,1500.0,900.0,600.0,2700.0,350.0,900.0,6.0
+Vanuatu,Port Vila,"islands, diving, volcanoes, culture","May, Jun, Jul, Aug",2300.0,1400.0,900.0,600.0,2600.0,350.0,900.0,6.0
+Tahiti,French Polynesia,"beaches, luxury, lagoons, culture","May, Jun, Sep, Oct",3200.0,2100.0,1100.0,1000.0,4000.0,500.0,1500.0,7.5
+Rarotonga,Cook Islands,"beaches, snorkeling, laid-back, culture","May, Jun, Jul, Aug",2200.0,1300.0,900.0,600.0,2500.0,350.0,900.0,6.0
+Palau,Palau,"diving, marine life, nature, adventure","Dec, Jan, Feb",3000.0,2000.0,1000.0,1000.0,3500.0,400.0,1500.0,7.0
+Fiji,Suva,"culture, islands, beaches, resorts","May, Jun, Jul, Aug",2300.0,1400.0,900.0,600.0,2600.0,350.0,900.0,6.0
+Papua New Guinea,Port Moresby,"culture, diving, nature, adventure","Jul, Aug, Sep",2200.0,1300.0,900.0,600.0,2500.0,350.0,900.0,6.0
+Lord Howe Island,Australia,"nature, hiking, beaches, conservation","Sep, Oct, Nov, Mar",2800.0,1800.0,1000.0,700.0,3200.0,400.0,1100.0,7.0
+Kangaroo Island,Australia,"wildlife, beaches, nature, food","Sep, Oct, Nov, Mar",2700.0,1700.0,1000.0,700.0,3100.0,400.0,1100.0,6.5
+Nouméa,New Caledonia,"French culture, beaches, reefs, cuisine","Sep, Oct, Nov, Apr, May",2400.0,1500.0,900.0,600.0,2700.0,350.0,900.0,6.0
+Port Vila,Vanuatu,"islands, diving, culture, volcanoes","May, Jun, Jul, Aug",2300.0,1400.0,900.0,600.0,2600.0,350.0,900.0,6.0
+Manila,Philippines,"culture, history, shopping, food","Dec, Jan, Feb",1800.0,1100.0,700.0,500.0,1500.0,300.0,900.0,6.0
+Cebu City,Philippines,"beaches, diving, history, food","Dec, Jan, Feb, Mar",1900.0,1150.0,750.0,600.0,1600.0,300.0,900.0,6.5
+Boracay,Philippines,"beaches, nightlife, water sports, resorts","Nov, Dec, Jan, Feb, Mar",2100.0,1300.0,800.0,700.0,1700.0,400.0,1000.0,7.0
+Davao,Philippines,"nature, mountains, culture, food","Dec, Jan, Feb",1700.0,1000.0,700.0,450.0,1400.0,300.0,850.0,6.0
+Baguio,Philippines,"mountains, culture, cool climate, food","Nov, Dec, Jan, Feb",1600.0,900.0,700.0,400.0,1300.0,300.0,850.0,5.5
+Palawan,Philippines,"beaches, islands, diving, nature","Nov, Dec, Jan, Feb",2200.0,1350.0,850.0,700.0,1800.0,400.0,950.0,7.0
+Vigan,Philippines,"history, architecture, culture","Nov, Dec, Jan, Feb",1650.0,950.0,700.0,450.0,1400.0,300.0,850.0,6.0
+Siargao,Philippines,"surfing, beaches, nature, laid-back","Sep, Oct, Nov, Dec",2100.0,1300.0,800.0,700.0,1800.0,400.0,950.0,6.5
+Tagaytay,Philippines,"nature, cool climate, food, views","Nov, Dec, Jan, Feb",1700.0,1000.0,700.0,450.0,1400.0,300.0,850.0,6.0
+Coron,Philippines,"diving, shipwrecks, nature, beaches","Nov, Dec, Jan, Feb",2200.0,1350.0,850.0,700.0,1800.0,400.0,950.0,7.0
+El Nido,Philippines,"beaches, islands, snorkeling, nature","Nov, Dec, Jan, Feb",2300.0,1400.0,900.0,700.0,1900.0,400.0,950.0,7.0
+Dumaguete,Philippines,"diving, culture, laid-back, nature","Nov, Dec, Jan, Feb",1900.0,1150.0,750.0,600.0,1600.0,300.0,900.0,6.5
+Bohol,Philippines,"beaches, chocolate hills, nature, wildlife","Nov, Dec, Jan, Feb",2100.0,1300.0,800.0,700.0,1700.0,400.0,950.0,7.0
+Camiguin,Philippines,"volcanoes, waterfalls, beaches, nature","Nov, Dec, Jan, Feb",2000.0,1250.0,750.0,600.0,1650.0,350.0,900.0,6.5
+Sagada,Philippines,"mountains, caves, culture, hiking","Nov, Dec, Jan, Feb",1700.0,1000.0,700.0,450.0,1400.0,300.0,850.0,6.0
+Siquijor,Philippines,"beaches, nature, mysticism, laid-back","Nov, Dec, Jan, Feb",1900.0,1150.0,750.0,600.0,1600.0,300.0,900.0,6.5
+Malapascua,Philippines,"diving, beaches, nature, islands","Nov, Dec, Jan, Feb",2100.0,1300.0,800.0,700.0,1700.0,400.0,950.0,6.5
+Panglao,Philippines,"beaches, diving, resorts, nature","Nov, Dec, Jan, Feb",2200.0,1350.0,850.0,700.0,1800.0,400.0,950.0,7.0
+Taal,Philippines,"volcano, lake, nature, hiking","Nov, Dec, Jan, Feb",1800.0,1100.0,700.0,500.0,1500.0,300.0,900.0,6.0
+Calaguas Islands,Philippines,"beaches, islands, nature, remote","Mar, Apr, May",2100.0,1300.0,800.0,700.0,1700.0,400.0,950.0,6.5
+Moscow,Russia,"history, culture, architecture, museums, nightlife","May, Jun, Jul, Aug, Sep",2500.0,1600.0,900.0,600.0,2800.0,350.0,1100.0,7.0
+Saint Petersburg,Russia,"culture, art, history, palaces, museums, canals","May, Jun, Jul, Aug, Sep",2400.0,1500.0,900.0,600.0,2700.0,350.0,1050.0,7.0
+Kazan,Russia,"culture, history, architecture, food","May, Jun, Jul, Aug, Sep",2100.0,1300.0,800.0,500.0,2400.0,300.0,900.0,6.5
+Sochi,Russia,"beaches, mountains, resorts, sports","Jun, Jul, Aug, Sep",2300.0,1400.0,900.0,600.0,2600.0,350.0,950.0,6.5
+Vladivostok,Russia,"nature, sea, culture, history","Jun, Jul, Aug, Sep",2200.0,1300.0,900.0,600.0,2500.0,350.0,900.0,6.0
+Irkutsk,Russia,"nature, history, Baikal lake, culture","May, Jun, Jul, Aug, Sep",2100.0,1300.0,800.0,500.0,2400.0,300.0,900.0,6.5
+Yekaterinburg,Russia,"history, culture, industry, architecture","May, Jun, Jul, Aug, Sep",2000.0,1200.0,800.0,500.0,2300.0,300.0,850.0,6.0
+Nizhny Novgorod,Russia,"history, architecture, culture","May, Jun, Jul, Aug, Sep",1900.0,1100.0,800.0,450.0,2200.0,300.0,850.0,6.0
+Murmansk,Russia,"nature, northern lights, Arctic, adventure","Jan, Feb, Mar, Dec",2200.0,1300.0,900.0,600.0,2500.0,350.0,900.0,6.0
+Krasnoyarsk,Russia,"nature, mountains, culture, Siberia","May, Jun, Jul, Aug",2100.0,1300.0,800.0,500.0,2400.0,300.0,900.0,6.5
+Suzdal,Russia,"history, architecture, monasteries, culture","May, Jun, Jul, Aug, Sep",1800.0,1100.0,700.0,450.0,1500.0,300.0,800.0,5.5
+Vladimir,Russia,"history, architecture, churches, culture","May, Jun, Jul, Aug, Sep",1850.0,1150.0,700.0,500.0,1550.0,300.0,850.0,6.0
+Kaliningrad,Russia,"beaches, history, culture, nature","Jun, Jul, Aug",1900.0,1200.0,700.0,500.0,1600.0,300.0,850.0,6.0
+Petrozavodsk,Russia,"nature, lakes, culture, history","May, Jun, Jul, Aug",1950.0,1250.0,700.0,550.0,1650.0,350.0,900.0,6.0
+Kemerovo,Russia,"nature, mountains, culture, skiing","Dec, Jan, Feb",2000.0,1300.0,700.0,600.0,1700.0,350.0,900.0,6.0
+Tomsk,Russia,"history, culture, architecture, universities","May, Jun, Jul, Aug",1900.0,1200.0,700.0,500.0,1600.0,300.0,850.0,6.0
+Arkhangelsk,Russia,"nature, Arctic, culture, history","Jun, Jul, Aug",1850.0,1150.0,700.0,500.0,1550.0,300.0,850.0,6.0
+Novosibirsk,Russia,"culture, history, industry, museums","May, Jun, Jul, Aug",1950.0,1250.0,700.0,550.0,1650.0,350.0,900.0,6.0
+Tver,Russia,"history, architecture, rivers, culture","May, Jun, Jul, Aug",1800.0,1100.0,700.0,450.0,1500.0,300.0,800.0,5.5
+Izhevsk,Russia,"culture, industry, museums, nature","May, Jun, Jul, Aug",1850.0,1150.0,700.0,500.0,1550.0,300.0,850.0,6.0
+Khabarovsk,Russia,"rivers, nature, culture, history","Jun, Jul, Aug",2000.0,1300.0,700.0,600.0,1700.0,350.0,900.0,6.0
+Volgograd,Russia,"history, museums, WWII memorials, culture","May, Jun, Jul, Aug",1900.0,1200.0,700.0,550.0,1600.0,300.0,850.0,6.0
+Ryazan,Russia,"history, architecture, culture","May, Jun, Jul, Aug",1750.0,1050.0,700.0,450.0,1450.0,300.0,800.0,5.5
+Smolensk,Russia,"history, fortresses, culture","May, Jun, Jul, Aug",1800.0,1100.0,700.0,500.0,1500.0,300.0,850.0,6.0
+Kostroma,Russia,"history, monasteries, culture","May, Jun, Jul, Aug",1750.0,1050.0,700.0,450.0,1450.0,300.0,800.0,5.5
+Novgorod,Russia,"history, architecture, culture","May, Jun, Jul, Aug",1850.0,1150.0,700.0,500.0,1550.0,300.0,850.0,6.0
+Chita,Russia,"nature, history, Siberia","Jun, Jul, Aug",1950.0,1250.0,700.0,550.0,1650.0,350.0,900.0,6.0
+Barnaul,Russia,"nature, mountains, culture","Jun, Jul, Aug",1900.0,1200.0,700.0,550.0,1600.0,350.0,900.0,6.0
+Magnitogorsk,Russia,"industry, culture, museums","May, Jun, Jul, Aug",1850.0,1150.0,700.0,500.0,1550.0,300.0,850.0,6.0
+Kurgan,Russia,"history, culture, nature","May, Jun, Jul, Aug",1750.0,1050.0,700.0,450.0,1450.0,300.0,800.0,5.5
+Kathmandu,Nepal,"culture, history, temples, markets, trekking","Sep, Oct, Nov, Mar, Apr",1500.0,900.0,600.0,400.0,1200.0,200.0,700.0,7.0
+Pokhara,Nepal,"lakes, trekking base, nature, adventure, paragliding","Sep, Oct, Nov, Mar, Apr",1600.0,950.0,650.0,450.0,1300.0,250.0,700.0,7.0
+Lumbini,Nepal,"spirituality, temples, pilgrimage, history","Oct, Nov, Dec, Feb, Mar",1400.0,850.0,550.0,350.0,1150.0,200.0,650.0,6.0
+Chitwan,Nepal,"wildlife, jungle safari, nature, adventure","Oct, Nov, Dec, Feb, Mar",1700.0,1000.0,700.0,500.0,1400.0,300.0,800.0,6.5
+Bhaktapur,Nepal,"culture, history, architecture, temples","Sep, Oct, Nov, Mar, Apr",1450.0,900.0,550.0,400.0,1200.0,200.0,650.0,6.0
+Everest Base Camp,Nepal,"trekking, mountains, adventure, nature","Mar, Apr, Sep, Oct",2000.0,1200.0,800.0,600.0,1600.0,300.0,900.0,14.0
+Annapurna Circuit,Nepal,"trekking, mountains, nature, culture","Mar, Apr, Sep, Oct",2100.0,1300.0,800.0,700.0,1700.0,350.0,950.0,15.0
+Nagarkot,Nepal,"views, nature, hiking, sunrise","Sep, Oct, Nov, Mar, Apr",1500.0,900.0,600.0,400.0,1200.0,200.0,700.0,5.0
+Patan,Nepal,"culture, temples, art, architecture","Sep, Oct, Nov, Mar, Apr",1450.0,900.0,550.0,400.0,1200.0,200.0,650.0,6.0
+Rara Lake,Nepal,"nature, trekking, lake, remote","Oct, Nov, Dec, Feb, Mar",1800.0,1100.0,700.0,500.0,1400.0,300.0,800.0,7.0
+Bandipur,Nepal,"mountains, culture, hiking, traditional village","Sep, Oct, Nov, Mar, Apr",1550.0,950.0,600.0,450.0,1250.0,250.0,700.0,6.0
+Gosaikunda,Nepal,"lake, trekking, nature, pilgrimage","Sep, Oct, Nov, Mar, Apr",1700.0,1050.0,650.0,500.0,1400.0,300.0,750.0,7.0
+Dhulikhel,Nepal,"mountain views, hiking, culture, nature","Sep, Oct, Nov, Mar, Apr",1500.0,900.0,600.0,450.0,1200.0,250.0,700.0,5.5
+Tansen,Nepal,"culture, history, architecture, mountains","Sep, Oct, Nov, Mar, Apr",1450.0,900.0,550.0,400.0,1150.0,200.0,650.0,6.0
+Jomsom,Nepal,"trekking, mountains, nature, adventure","Sep, Oct, Nov, Mar, Apr",1650.0,1000.0,650.0,500.0,1350.0,300.0,700.0,7.0
+Khaptad,Nepal,"national park, trekking, nature, remote","Sep, Oct, Nov, Mar, Apr",1600.0,950.0,650.0,450.0,1300.0,250.0,700.0,6.5
+Ilam,Nepal,"tea gardens, nature, hiking, culture","Sep, Oct, Nov, Mar, Apr",1500.0,900.0,600.0,450.0,1200.0,250.0,700.0,5.5
+Mustang,Nepal,"culture, trekking, desert, history","Sep, Oct, Nov, Mar, Apr",1800.0,1100.0,700.0,600.0,1400.0,300.0,800.0,7.5
+Gorkha,Nepal,"history, culture, trekking, nature","Sep, Oct, Nov, Mar, Apr",1550.0,950.0,600.0,450.0,1250.0,250.0,700.0,6.0
+Bardiya,Nepal,"wildlife, national park, nature, adventure","Oct, Nov, Dec, Feb, Mar",1700.0,1050.0,650.0,500.0,1400.0,300.0,750.0,6.5
+Almaty,Kazakhstan,"mountains, culture, history, skiing, nature","Jun, Jul, Aug, Sep",1700.0,1100.0,600.0,500.0,1300.0,300.0,800.0,6.5
+Nur-Sultan,Kazakhstan,"modern city, architecture, culture, history","May, Jun, Jul, Aug",1600.0,1000.0,600.0,450.0,1200.0,250.0,750.0,6.0
+Shymkent,Kazakhstan,"culture, history, markets, nature","May, Jun, Sep, Oct",1500.0,900.0,600.0,400.0,1100.0,250.0,700.0,5.5
+Tashkent,Uzbekistan,"history, architecture, culture, bazaars","Apr, May, Sep, Oct",1400.0,900.0,500.0,350.0,1150.0,200.0,650.0,6.0
+Samarkand,Uzbekistan,"history, ancient cities, architecture, culture","Apr, May, Sep, Oct",1500.0,950.0,550.0,400.0,1200.0,250.0,700.0,6.0
+Bukhara,Uzbekistan,"history, culture, architecture, ancient city","Apr, May, Sep, Oct",1450.0,900.0,550.0,400.0,1150.0,200.0,650.0,6.0
+Belgrade,Serbia,"culture, nightlife, history, architecture","May, Jun, Sep, Oct",1600.0,1000.0,600.0,450.0,1200.0,250.0,750.0,6.0
+Novi Sad,Serbia,"culture, festivals, history, architecture","May, Jun, Sep, Oct",1500.0,900.0,600.0,400.0,1100.0,250.0,700.0,5.5
+Zagreb,Croatia,"culture, history, museums, parks","May, Jun, Sep, Oct",1650.0,1050.0,600.0,500.0,1300.0,300.0,800.0,6.0
+Dubrovnik,Croatia,"history, beaches, culture, old town","May, Jun, Sep, Oct",1800.0,1150.0,650.0,550.0,1400.0,300.0,850.0,6.5
+Sarajevo,Bosnia,"history, culture, nature, architecture","May, Jun, Sep, Oct",1500.0,900.0,600.0,400.0,1100.0,250.0,700.0,6.0
+Mostar,Bosnia,"history, architecture, culture, bridges","May, Jun, Sep, Oct",1450.0,850.0,600.0,400.0,1100.0,250.0,650.0,5.5
+Aktau,Kazakhstan,"beaches, Caspian Sea, nature, fishing","Jun, Jul, Aug",1550.0,950.0,600.0,400.0,1200.0,250.0,700.0,5.5  
+Karaganda,Kazakhstan,"history, culture, mining, nature","May, Jun, Jul, Aug",1450.0,900.0,550.0,400.0,1100.0,200.0,650.0,5.0  
+Taraz,Kazakhstan,"history, architecture, culture","May, Jun, Sep, Oct",1500.0,950.0,550.0,450.0,1200.0,250.0,700.0,5.5  
+Kokshetau,Kazakhstan,"nature, lakes, hiking, culture","Jun, Jul, Aug, Sep",1600.0,1000.0,600.0,500.0,1300.0,300.0,750.0,6.0  
+Uralsk,Kazakhstan,"culture, history, nature","May, Jun, Sep, Oct",1450.0,900.0,550.0,400.0,1100.0,200.0,650.0,5.0  
+Fergana,Uzbekistan,"culture, markets, history, nature","Apr, May, Sep, Oct",1400.0,850.0,550.0,350.0,1100.0,200.0,650.0,5.5  
+Khiva,Uzbekistan,"history, architecture, culture, desert","Apr, May, Sep, Oct",1450.0,900.0,550.0,400.0,1150.0,200.0,650.0,5.5  
+Andijan,Uzbekistan,"culture, markets, history","Apr, May, Sep, Oct",1350.0,850.0,500.0,350.0,1050.0,200.0,600.0,5.0  
+Kragujevac,Serbia,"history, culture, museums","May, Jun, Sep, Oct",1400.0,900.0,500.0,350.0,1100.0,200.0,650.0,5.5  
+Nis,Serbia,"history, culture, nature","May, Jun, Sep, Oct",1450.0,900.0,550.0,400.0,1150.0,200.0,650.0,5.5  
+Split,Croatia,"beaches, history, culture, nightlife","May, Jun, Sep, Oct",1700.0,1100.0,600.0,500.0,1300.0,300.0,750.0,6.0  
+Rijeka,Croatia,"culture, history, coast, festivals","May, Jun, Sep, Oct",1600.0,1000.0,600.0,450.0,1200.0,250.0,700.0,6.0  
+Banja Luka,Bosnia,"culture, nature, history","May, Jun, Sep, Oct",1450.0,900.0,550.0,400.0,1150.0,200.0,650.0,5.5  
+Zenica,Bosnia,"history, culture, industry","May, Jun, Sep, Oct",1400.0,850.0,550.0,350.0,1100.0,200.0,600.0,5.0  
+Mostar,Bosnia,"architecture, culture, history, bridges","May, Jun, Sep, Oct",1450.0,900.0,600.0,400.0,1100.0,250.0,650.0,5.5  
+Dubai,United Arab Emirates,"modern city, shopping, beaches, skyscrapers, nightlife","Nov, Dec, Jan, Feb, Mar",2500.0,1500.0,1000.0,700.0,2500.0,500.0,1500.0,7.0
+Abu Dhabi,United Arab Emirates,"culture, modern architecture, beaches, museums","Nov, Dec, Jan, Feb, Mar",2300.0,1400.0,900.0,600.0,2300.0,400.0,1300.0,6.5
+Sharjah,United Arab Emirates,"culture, museums, shopping, heritage","Nov, Dec, Jan, Feb, Mar",2100.0,1300.0,800.0,500.0,2100.0,350.0,1100.0,6.0
+Amman,Jordan,"history, culture, ancient ruins, food","Mar, Apr, Oct, Nov",1800.0,1100.0,700.0,400.0,1800.0,300.0,1000.0,6.0
+Petra,Jordan,"archaeology, history, hiking, culture","Mar, Apr, Oct, Nov",1900.0,1200.0,700.0,500.0,1900.0,350.0,1100.0,6.5
+Wadi Rum,Jordan,"desert, nature, adventure, hiking","Mar, Apr, Oct, Nov",1700.0,1000.0,700.0,400.0,1700.0,300.0,1000.0,5.5
+Jerusalem,Israel,"history, religion, culture, architecture","Apr, May, Sep, Oct",2000.0,1300.0,700.0,600.0,2000.0,400.0,1100.0,6.5
+Tel Aviv,Israel,"beaches, nightlife, culture, food","May, Jun, Sep, Oct",2200.0,1400.0,800.0,700.0,2200.0,450.0,1200.0,6.5
+Casablanca,Morocco,"culture, history, beaches, markets","Mar, Apr, Oct, Nov",1700.0,1000.0,700.0,400.0,1700.0,300.0,900.0,6.0
+Marrakech,Morocco,"history, culture, markets, gardens","Mar, Apr, Oct, Nov",1800.0,1100.0,700.0,500.0,1800.0,350.0,900.0,6.5
+Fes,Morocco,"history, culture, architecture, markets","Mar, Apr, Oct, Nov",1750.0,1050.0,700.0,450.0,1750.0,300.0,900.0,6.0
+Tangier,Morocco,"history, beaches, culture, port","Mar, Apr, Oct, Nov",1650.0,950.0,700.0,400.0,1650.0,300.0,850.0,6.0
+Beirut,Lebanon,"culture, nightlife, history, food","Apr, May, Sep, Oct",1900.0,1200.0,700.0,500.0,1900.0,350.0,900.0,6.5
+Byblos,Lebanon,"history, culture, seaside, ancient ruins","Apr, May, Sep, Oct",1800.0,1100.0,700.0,450.0,1800.0,300.0,850.0,6.0
+Tehran,Iran,"culture, history, museums, bazaars","Apr, May, Sep, Oct",2000.0,1300.0,700.0,600.0,2000.0,400.0,1100.0,6.5
+Isfahan,Iran,"architecture, history, culture, bazaars","Apr, May, Sep, Oct",1900.0,1200.0,700.0,500.0,1900.0,350.0,900.0,6.0
+Shiraz,Iran,"history, gardens, culture, poetry","Apr, May, Sep, Oct",1850.0,1150.0,700.0,500.0,1850.0,350.0,900.0,6.0
+Mashhad,Iran,"pilgrimage, culture, history","Apr, May, Sep, Oct",1750.0,1100.0,650.0,450.0,1750.0,300.0,850.0,6.0
+Aqaba,Jordan,"beaches, diving, culture, history","Mar, Apr, Oct, Nov",1650.0,950.0,700.0,400.0,1650.0,300.0,850.0,5.5
+Dead Sea,Jordan,"nature, spa, wellness, unique landscape","Mar, Apr, Oct, Nov",1600.0,900.0,700.0,400.0,1600.0,300.0,850.0,5.0
+Umm Qais,Jordan,"history, ruins, nature, culture","Mar, Apr, Oct, Nov",1500.0,850.0,650.0,350.0,1500.0,250.0,800.0,5.0
+Eilat,Israel,"beaches, diving, nightlife, nature","May, Jun, Sep, Oct",2100.0,1300.0,800.0,600.0,2100.0,400.0,1200.0,6.0
+Haifa,Israel,"nature, culture, beaches, history","Apr, May, Sep, Oct",1900.0,1200.0,700.0,500.0,1900.0,350.0,900.0,6.0
+Rabat,Morocco,"history, culture, beaches, government","Mar, Apr, Oct, Nov",1600.0,950.0,650.0,400.0,1600.0,300.0,800.0,5.5
+Essaouira,Morocco,"beaches, culture, fishing, history","Mar, Apr, Oct, Nov",1550.0,900.0,650.0,400.0,1550.0,300.0,800.0,5.0
+Chefchaouen,Morocco,"mountains, culture, blue city, nature","Mar, Apr, Oct, Nov",1600.0,950.0,650.0,400.0,1600.0,300.0,800.0,5.5
+Byblos,Lebanon,"history, culture, seaside, ancient ruins","Apr, May, Sep, Oct",1800.0,1100.0,700.0,450.0,1800.0,300.0,850.0,6.0
+Sidon,Lebanon,"history, culture, seaside, ruins","Apr, May, Sep, Oct",1700.0,1000.0,700.0,400.0,1700.0,300.0,800.0,5.5
+Yerevan,Armenia,"history, culture, architecture, nature","May, Jun, Sep, Oct",1600.0,1000.0,600.0,450.0,1600.0,300.0,750.0,6.0
+Tbilisi,Georgia,"culture, history, architecture, nightlife","May, Jun, Sep, Oct",1700.0,1100.0,600.0,500.0,1700.0,300.0,800.0,6.0
+Batumi,Georgia,"beaches, nightlife, culture, nature","May, Jun, Sep, Oct",1650.0,1050.0,600.0,450.0,1650.0,300.0,750.0,6.0
+Muscat,Oman,"culture, beaches, nature, history","Oct, Nov, Feb, Mar",2200.0,1400.0,800.0,600.0,2200.0,400.0,1200.0,6.5
+Salalah,Oman,"nature, beaches, culture, monsoon season","Sep, Oct, Nov",2100.0,1350.0,750.0,550.0,2100.0,350.0,1150.0,6.0
+Doha,Qatar,"modern city, culture, shopping, nightlife","Nov, Dec, Jan, Feb",2400.0,1500.0,900.0,700.0,2400.0,500.0,1400.0,6.5
+Manama,Bahrain,"culture, history, shopping, beaches","Nov, Dec, Jan, Feb",2300.0,1400.0,900.0,700.0,2300.0,450.0,1300.0,6.5
+Casablanca,Morocco,"culture, history, beaches, markets","Mar, Apr, Oct, Nov",1700.0,1000.0,700.0,400.0,1700.0,300.0,900.0,6.0
+Marrakech,Morocco,"history, culture, markets, gardens","Mar, Apr, Oct, Nov",1800.0,1100.0,700.0,500.0,1800.0,350.0,900.0,6.5
+Fes,Morocco,"history, culture, architecture, markets","Mar, Apr, Oct, Nov",1750.0,1050.0,700.0,450.0,1750.0,300.0,900.0,6.0
+Tangier,Morocco,"history, beaches, culture, port","Mar, Apr, Oct, Nov",1650.0,950.0,700.0,400.0,1650.0,300.0,850.0,6.0
+Algiers,Algeria,"history, culture, Mediterranean coast","Apr, May, Sep, Oct",1600.0,900.0,700.0,400.0,1600.0,300.0,850.0,6.0
+Oran,Algeria,"beaches, culture, history","Apr, May, Sep, Oct",1550.0,850.0,700.0,350.0,1550.0,300.0,800.0,5.5
+Tunis,Tunisia,"history, culture, Mediterranean coast, ruins","Apr, May, Sep, Oct",1650.0,950.0,700.0,400.0,1650.0,300.0,850.0,6.0
+Sousse,Tunisia,"beaches, culture, history","Apr, May, Sep, Oct",1600.0,900.0,700.0,400.0,1600.0,300.0,800.0,5.5
+Cairo,Egypt,"history, culture, pyramids, Nile","Oct, Nov, Feb, Mar",2100.0,1400.0,700.0,700.0,2100.0,400.0,1300.0,6.5
+Luxor,Egypt,"history, ancient ruins, temples, culture","Oct, Nov, Feb, Mar",2000.0,1300.0,700.0,600.0,2000.0,350.0,1200.0,6.0
+Aswan,Egypt,"history, Nile, culture, temples","Oct, Nov, Feb, Mar",1950.0,1250.0,700.0,600.0,1950.0,350.0,1150.0,6.0
+Alexandria,Egypt,"history, Mediterranean coast, culture","Oct, Nov, Feb, Mar",1800.0,1150.0,650.0,550.0,1800.0,300.0,1050.0,6.0
+Tripoli,Libya,"history, culture, Mediterranean coast","Apr, May, Sep, Oct",1600.0,950.0,650.0,400.0,1600.0,300.0,800.0,5.5
+Timbuktu,Mali,"history, culture, desert, ancient city","Nov, Dec, Jan, Feb",1500.0,900.0,600.0,350.0,1500.0,250.0,750.0,5.5
+Mogadishu,Somalia,"beaches, culture, history","Dec, Jan, Feb",1400.0,850.0,550.0,300.0,1400.0,200.0,700.0,5.0
+Khartoum,Sudan,"culture, history, Nile confluence","Nov, Dec, Jan, Feb",1500.0,900.0,600.0,350.0,1500.0,250.0,750.0,5.5
+Djibouti City,Djibouti,"nature, culture, beaches","Nov, Dec, Jan, Feb",1600.0,950.0,650.0,400.0,1600.0,300.0,800.0,5.5
+Hanoi,Vietnam,"history, culture, street food, lakes","Oct, Nov, Dec, Feb, Mar",1200.0,700.0,500.0,400.0,1200.0,300.0,700.0,6.0
+Ho Chi Minh City,Vietnam,"markets, history, nightlife, food","Nov, Dec, Jan, Feb, Mar",1300.0,800.0,500.0,450.0,1300.0,350.0,750.0,6.5
+Halong Bay,Vietnam,"nature, cruises, scenery, UNESCO","Oct, Nov, Dec, Feb, Mar",1400.0,850.0,550.0,500.0,1400.0,400.0,800.0,5.5
+Hue,Vietnam,"history, culture, temples, cuisine","Feb, Mar, Apr, Oct, Nov",1150.0,700.0,450.0,400.0,1150.0,300.0,700.0,5.5
+Siem Reap,Cambodia,"Angkor Wat, temples, history, culture","Nov, Dec, Jan, Feb",1250.0,750.0,500.0,450.0,1250.0,350.0,700.0,6.0
+Phnom Penh,Cambodia,"history, culture, markets, nightlife","Nov, Dec, Jan, Feb",1100.0,650.0,450.0,400.0,1100.0,300.0,600.0,6.0
+Battambang,Cambodia,"culture, countryside, temples, rivers","Nov, Dec, Jan, Feb",1050.0,600.0,450.0,350.0,1050.0,300.0,600.0,5.5
+Luang Prabang,Laos,"culture, temples, nature, UNESCO","Nov, Dec, Jan, Feb, Mar",1150.0,700.0,450.0,400.0,1150.0,300.0,700.0,6.0
+Vientiane,Laos,"culture, temples, markets, river","Nov, Dec, Jan, Feb, Mar",1100.0,650.0,450.0,350.0,1100.0,300.0,600.0,6.0
+Pakse,Laos,"nature, waterfalls, culture, Mekong","Nov, Dec, Jan, Feb",1000.0,600.0,400.0,350.0,1000.0,300.0,600.0,5.5
+Da Nang,Vietnam,"beaches, culture, history, food","Feb, Mar, Apr, Sep, Oct",1250.0,750.0,500.0,450.0,1250.0,350.0,700.0,6.0
+Nha Trang,Vietnam,"beaches, diving, nightlife, food","Feb, Mar, Apr, Sep, Oct",1300.0,800.0,500.0,500.0,1300.0,350.0,750.0,6.0
+Can Tho,Vietnam,"floating markets, culture, nature","Nov, Dec, Jan, Feb",1100.0,650.0,450.0,350.0,1100.0,300.0,600.0,5.5
+Sihanoukville,Cambodia,"beaches, nightlife, islands, nature","Nov, Dec, Jan, Feb",1200.0,700.0,500.0,400.0,1200.0,350.0,700.0,6.0
+Kampot,Cambodia,"rivers, nature, pepper plantations","Nov, Dec, Jan, Feb",1050.0,600.0,450.0,350.0,1050.0,300.0,600.0,5.5
+Stung Treng,Cambodia,"nature, Mekong river, culture","Nov, Dec, Jan, Feb",1000.0,550.0,450.0,300.0,1000.0,250.0,550.0,5.0
+Muang Ngoi Neua,Laos,"nature, trekking, rivers, culture","Nov, Dec, Jan, Feb",950.0,550.0,400.0,300.0,950.0,250.0,550.0,5.0
+Savannakhet,Laos,"culture, history, markets","Nov, Dec, Jan, Feb",1000.0,600.0,400.0,350.0,1000.0,300.0,600.0,5.5
+Xam Neua,Laos,"nature, mountains, culture","Nov, Dec, Jan, Feb",900.0,550.0,350.0,300.0,900.0,250.0,500.0,5.0
+Phong Nha,Vietnam,"caves, nature, trekking, adventure","Feb, Mar, Apr, Sep, Oct",1150.0,700.0,450.0,400.0,1150.0,300.0,700.0,5.5
+Buon Ma Thuot,Vietnam,"coffee region, nature, culture","Feb, Mar, Apr, Sep, Oct",1100.0,650.0,450.0,350.0,1100.0,300.0,600.0,5.0
+Ratanakiri,Cambodia,"nature, waterfalls, culture, trekking","Nov, Dec, Jan, Feb",1000.0,600.0,400.0,300.0,1000.0,250.0,600.0,5.0
+Kratie,Cambodia,"dolphin watching, Mekong river, culture","Nov, Dec, Jan, Feb",1050.0,650.0,400.0,350.0,1050.0,300.0,600.0,5.0
+Pakse,Laos,"nature, waterfalls, culture, Mekong","Nov, Dec, Jan, Feb",1000.0,600.0,400.0,350.0,1000.0,300.0,600.0,5.5
+Champasak,Laos,"history, nature, temples","Nov, Dec, Jan, Feb",1050.0,650.0,400.0,350.0,1050.0,300.0,600.0,5.0
+Liverpool,United Kingdom,"music, culture, football, museums, nightlife","May, Jun, Jul, Aug, Sep",1600.0,1000.0,600.0,500.0,1600.0,300.0,700.0,6.0
+Edinburgh,United Kingdom,"history, festivals, culture, castles","May, Jun, Jul, Aug, Sep",1800.0,1200.0,600.0,600.0,1800.0,350.0,750.0,7.0
+Glasgow,United Kingdom,"music, culture, nightlife, museums","May, Jun, Jul, Aug, Sep",1650.0,1050.0,600.0,550.0,1650.0,300.0,700.0,6.0
+Bristol,United Kingdom,"culture, maritime history, nightlife, arts","May, Jun, Jul, Aug, Sep",1550.0,950.0,600.0,500.0,1550.0,300.0,650.0,6.0
+Birmingham,United Kingdom,"culture, shopping, nightlife, museums","May, Jun, Jul, Aug, Sep",1600.0,1000.0,600.0,550.0,1600.0,300.0,700.0,6.0
+Brighton,United Kingdom,"beaches, culture, nightlife, festivals","May, Jun, Jul, Aug, Sep",1650.0,1050.0,600.0,550.0,1650.0,300.0,700.0,6.0
+Oxford,United Kingdom,"history, education, culture, architecture","May, Jun, Sep, Oct",1500.0,900.0,600.0,450.0,1500.0,300.0,650.0,5.5
+Cambridge,United Kingdom,"history, education, culture, architecture","May, Jun, Sep, Oct",1500.0,900.0,600.0,450.0,1500.0,300.0,650.0,5.5
+York,United Kingdom,"history, culture, architecture, museums","May, Jun, Sep, Oct",1550.0,950.0,600.0,500.0,1550.0,300.0,650.0,6.0
+Newcastle upon Tyne,United Kingdom,"culture, nightlife, history, architecture","May, Jun, Jul, Aug, Sep",1550.0,950.0,600.0,500.0,1550.0,300.0,650.0,6.0
+Belfast,United Kingdom,"history, culture, Titanic, nature","May, Jun, Jul, Aug, Sep",1500.0,900.0,600.0,450.0,1500.0,300.0,600.0,5.5
+Cardiff,United Kingdom,"history, culture, sports, nightlife","May, Jun, Jul, Aug, Sep",1450.0,850.0,600.0,400.0,1450.0,300.0,600.0,5.5
+Gloucester,United Kingdom,"history, architecture, countryside","May, Jun, Sep, Oct",1400.0,800.0,600.0,400.0,1400.0,300.0,600.0,5.5
+Bath,United Kingdom,"history, Roman baths, culture","May, Jun, Sep, Oct",1500.0,900.0,600.0,450.0,1500.0,300.0,650.0,6.0
+Canterbury,United Kingdom,"history, cathedrals, culture","May, Jun, Sep, Oct",1450.0,850.0,600.0,400.0,1450.0,300.0,600.0,5.5
+Stirling,United Kingdom,"history, castles, culture","May, Jun, Sep, Oct",1400.0,800.0,600.0,400.0,1400.0,300.0,600.0,5.5
+Durham,United Kingdom,"history, culture, architecture","May, Jun, Sep, Oct",1400.0,800.0,600.0,400.0,1400.0,300.0,600.0,5.5
+Exeter,United Kingdom,"history, culture, cathedral","May, Jun, Sep, Oct",1450.0,850.0,600.0,400.0,1450.0,300.0,600.0,5.5
+Salisbury,United Kingdom,"history, stonehenge, culture","May, Jun, Sep, Oct",1400.0,800.0,600.0,400.0,1400.0,300.0,600.0,5.5
